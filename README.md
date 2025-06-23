@@ -16,8 +16,6 @@ O desafio foi desenvolvido como parte de um programa de capacitação em Ciênci
 Os dados utilizados neste projeto são de transações de compras de uma loja de e-commerce, abrangendo operações em 38 países e territórios entre os anos de 2010 e 2011.  
 A base de dados contém informações detalhadas sobre clientes, produtos e transações, totalizando mais de 4.000 clientes únicos e 540.000 transações.
 
-**Fonte dos Dados:** [Kaggle - E-commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
-
 ---
 
 ## 📦 Estrutura dos Dados
